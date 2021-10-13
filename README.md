@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrey912
 - 👀 I’m interested in Machine Learning, Data Analysis and Predictive Modelling
-- 🌱 I’m currently learning Hyperparameter Tuning for Deep Neural Networks
+- 🌱 I’m currently learning Psychometric Analysis for Interview applicants using Audio/Visual Input 
 - 📫 If interested in a collab, connect with me on my linked profile: https://www.linkedin.com/in/shrey-srivastava-7a0753192/ or email me at : shrey.srivastava.08@gmail.com
 
 <!---
